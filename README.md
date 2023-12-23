@@ -1,1 +1,1 @@
-# miniJavacscript
+# Javacscript
